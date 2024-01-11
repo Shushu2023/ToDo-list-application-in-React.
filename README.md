@@ -10,18 +10,18 @@
  ## How to Run 
 1.  Open your terminal and then type
 
- $ git clone {the url to the GitHub repo}
+  $ git clone {the url to the GitHub repo}
 
- This clones the repo
+  This clones the repo
 
 2. cd into the new folder and type
 
-$ npm install
+  $ npm install
 
-This installs the required dependencies
+   This installs the required dependencies
 
 3. To run the React project.
-$ npm start
+   $ npm start
     
  ## Roadmap of future improvements
  Future impovements can be adding a calender to date the taskes and a reminder alarm
