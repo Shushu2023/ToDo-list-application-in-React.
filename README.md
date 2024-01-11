@@ -1,6 +1,6 @@
 # ToDo-list-application-in-React.
 # ToDo list
-<img src="" width = 300>
+<img src="todoList_screen_shot.png" width = 300>
 
 ## Description 
  An input form that allows users to add items to the ToDo list.
